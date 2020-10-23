@@ -5,9 +5,6 @@ var newSurname = prompt('Inserire il proprio cognome'); // all'utente, in avvio,
 // parte dedicata alla gestione della logica
 
 newSurname.push(surnameArray); // il cognome inserito dall'utente viene aggiunto ai cognomi non ordinati già presenti all'interno dell'array
-  constructor() {
 
-  }
-}
 
 // parte dedicata alla gestione degli output
